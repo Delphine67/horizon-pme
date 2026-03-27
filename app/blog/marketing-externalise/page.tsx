@@ -2,15 +2,15 @@ export default function Page() {
   return (
     <main className="max-w-3xl mx-auto px-6 py-20">
       <h1 className="text-4xl font-bold mb-6">
-        Marketing externalisé : un levier concret pour structurer et accélérer votre PME
+        Marketing externalise : un levier concret pour structurer et accelerer votre PME
       </h1>
 
       <p className="mb-4">
-        De nombreuses PME avancent sans véritable stratégie marketing structurée. Les actions sont souvent ponctuelles, opportunistes, et rarement pilotées dans la durée.
+        De nombreuses PME avancent sans strategie marketing structuree. Les actions sont souvent ponctuelles et peu pilotees.
       </p>
 
       <p className="mb-4">
-        Le marketing externalisé permet de bénéficier d’une expertise expérimentée, sans recruter immédiatement. Il apporte méthode, priorisation et efficacité.
+        Le marketing externalise permet de beneficier d'une expertise experimentee sans recruter immediatement.
       </p>
 
       <h2 className="text-2xl font-semibold mt-8 mb-4">
@@ -18,9 +18,9 @@ export default function Page() {
       </h2>
 
       <ul className="list-disc pl-6 mb-6">
-        <li>Prendre du recul sur votre activité</li>
+        <li>Prendre du recul sur votre activite</li>
         <li>Structurer vos actions</li>
-        <li>Gagner en visibilité</li>
+        <li>Gagner en visibilite</li>
         <li>Optimiser vos investissements</li>
       </ul>
 
@@ -29,7 +29,7 @@ export default function Page() {
       </h2>
 
       <p className="mb-6">
-        L’accompagnement peut être ponctuel, en mode projet ou sous forme de temps partagé selon vos besoins et votre budget.
+        L'accompagnement peut etre ponctuel, en mode projet ou en temps partage.
       </p>
 
       <div className="mt-10">
@@ -37,7 +37,7 @@ export default function Page() {
           href="/contact"
           className="inline-block bg-[#2a4d69] text-white px-6 py-3 rounded-xl hover:bg-[#1f3a52] transition"
         >
-          Échanger sur votre situation
+          Echanger sur votre situation
         </a>
       </div>
     </main>
