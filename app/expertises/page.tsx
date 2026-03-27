@@ -13,7 +13,7 @@ export default function Expertises() {
           </h1>
 
           <p className="text-lg text-gray-600">
-            J’interviens sur des sujets clés pour structurer votre activité,
+            J''interviens sur des sujets clés pour structurer votre activité,
             sécuriser vos pratiques et soutenir votre développement.
           </p>
 
@@ -28,7 +28,7 @@ export default function Expertises() {
             Mon approche est globale : les sujets marketing, organisationnels
             et réglementaires sont souvent liés.
             <br /><br />
-            L’objectif est de vous apporter une vision cohérente et opérationnelle.
+            L'objectif est de vous apporter une vision cohérente et opérationnelle.
           </p>
 
         </div>
@@ -53,7 +53,7 @@ export default function Expertises() {
 
           <div>
             <p className="text-gray-600">
-              Le marketing ne doit pas être une succession d’actions isolées.
+              Le marketing ne doit pas être une succession d'actions isolées.
               <br /><br />
               Il doit être structuré, cohérent et aligné avec vos objectifs
               pour produire des résultats durables.

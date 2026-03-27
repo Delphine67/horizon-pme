@@ -162,12 +162,12 @@ export default function CasConcrets() {
 
       <p><strong>Problèmes :</strong> Peu de trafic, faible transformation, manque de visibilité.</p>
 
-      <p><strong>Action :</strong> Refonte du site, intégration d’un accès client, création d’un blog et publication régulière de contenus (dont législation), ajout d’une page recrutement.</p>
+      <p><strong>Action :</strong> Refonte du site, intégration d'un accès client, création d'un blog et publication régulière de contenus (dont législation), ajout d’une page recrutement.</p>
 
       <p><strong>Résultats :</strong></p>
       <ul className="list-disc ml-5">
         <li>Augmentation significative du trafic</li>
-        <li>Utilisation du site comme point d’entrée client</li>
+        <li>Utilisation du site comme point d'entrée client</li>
         <li>Lecture des articles et amélioration du SEO</li>
         <li>Facilitation du recrutement</li>
       </ul>

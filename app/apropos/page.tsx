@@ -65,7 +65,7 @@ export default function APropos() {
           </h2>
 
           <p className="text-lg">
-            Mon rôle n’est pas de produire des recommandations théoriques,
+            Mon rôle n'est pas de produire des recommandations théoriques,
             mais de vous aider à structurer, décider et agir efficacement.
           </p>
 

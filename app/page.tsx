@@ -142,7 +142,7 @@ export default function Home() {
 
             <div className="bg-white p-6 rounded-xl">Diagnostic</div>
             <div className="bg-[#FFD166] p-6 rounded-xl">Priorisation</div>
-            <div className="bg-[#7CB342] text-white p-6 rounded-xl">Plan d’actions</div>
+            <div className="bg-[#7CB342] text-white p-6 rounded-xl">Plan d'actions</div>
             <div className="bg-black text-white p-6 rounded-xl">Mise en œuvre</div>
 
           </div>
@@ -165,7 +165,7 @@ export default function Home() {
           </h2>
 
           <p className="text-gray-600 mb-8">
-            Découvrez des exemples d’accompagnement réalisés auprès de PME.
+            Découvrez des exemples d'accompagnement réalisés auprès de PME.
           </p>
 
           <Link href="/cas-concrets">
