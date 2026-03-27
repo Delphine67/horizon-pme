@@ -14,7 +14,7 @@ export default function APropos() {
           </h1>
 
           <p className="text-lg text-gray-600">
-            J’accompagne les dirigeants de PME pour structurer leur développement,
+            J'accompagne les dirigeants de PME pour structurer leur développement,
             sécuriser leurs pratiques et prendre des décisions plus sereinement.
           </p>
 
@@ -37,17 +37,17 @@ export default function APropos() {
 
           <div>
             <h2 className="text-2xl font-semibold mb-6">
-              30 ans d’expérience dans des environnements exigeants
+              30 ans d'expérience dans des environnements exigeants
             </h2>
 
             <p className="mb-4 text-gray-600">
-              J’ai évolué pendant plus de 30 ans dans des contextes variés,
+              J'ai évolué pendant plus de 30 ans dans des contextes variés,
               en accompagnant des entreprises sur des enjeux de marketing,
-              d’organisation et de développement.
+              d'organisation et de développement.
             </p>
 
             <p className="text-gray-600">
-              Aujourd’hui, j’interviens auprès de PME qui doivent avancer vite,
+              Aujourd'hui, j'interviens auprès de PME qui doivent avancer vite,
               avec des ressources limitées et des enjeux multiples à gérer.
             </p>
 

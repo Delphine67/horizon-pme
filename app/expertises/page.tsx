@@ -13,7 +13,7 @@ export default function Expertises() {
           </h1>
 
           <p className="text-lg text-gray-600">
-            J''interviens sur des sujets clés pour structurer votre activité,
+            J'interviens sur des sujets clés pour structurer votre activité,
             sécuriser vos pratiques et soutenir votre développement.
           </p>
 

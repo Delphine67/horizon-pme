@@ -15,7 +15,7 @@ export default function CasConcrets() {
           <p className="text-lg text-gray-600">
             Chaque PME est différente, mais les problématiques sont souvent similaires.
             <br /><br />
-            Voici des exemples réels d’accompagnement.
+            Voici des exemples réels d'accompagnement.
           </p>
 
         </div>
@@ -58,10 +58,10 @@ export default function CasConcrets() {
             <p><strong>Secteur :</strong> Industrie / BTP</p>
             <p><strong>Constat :</strong> Pot de peinture inadapté → transvasement obligatoire.</p>
             <p><strong>Problèmes :</strong> perte de temps, gaspillage, déchets, coûts supplémentaires.</p>
-            <p><strong>Action :</strong> Conception d’un emballage adapté à l’usage (bac rectangulaire).</p>
+            <p><strong>Action :</strong> Conception d'un emballage adapté à l'usage (bac rectangulaire).</p>
             <p><strong>Résultats :</strong></p>
             <ul className="list-disc ml-5">
-              <li>Suppression d’une étape</li>
+              <li>Suppression d'une étape</li>
               <li>Réduction des déchets</li>
               <li>Gain de temps utilisateur</li>
               <li>Innovation devenue standard du marché</li>
@@ -81,13 +81,13 @@ export default function CasConcrets() {
 
           <div className="space-y-3 text-gray-600">
             <p><strong>Secteur :</strong> Immobilier / PME</p>
-            <p><strong>Problème :</strong> Absence de livret d’accueil et risques RH / sécurité.</p>
-            <p><strong>Action :</strong> Création d’un livret d’accueil complet et conforme.</p>
+            <p><strong>Problème :</strong> Absence de livret d'accueil et risques RH / sécurité.</p>
+            <p><strong>Action :</strong> Création d'un livret d'accueil complet et conforme.</p>
             <p><strong>Résultats :</strong></p>
             <ul className="list-disc ml-5">
               <li>Intégration facilitée</li>
               <li>Conformité réglementaire</li>
-              <li>Valorisation de l’entreprise</li>
+              <li>Valorisation de l'entreprise</li>
               <li>Gain de temps pour la direction</li>
             </ul>
           </div>
@@ -123,7 +123,7 @@ export default function CasConcrets() {
   <div className="max-w-5xl mx-auto px-6 bg-white p-10 rounded-xl shadow border-l-4 border-[#2A4D69]">
 
     <h2 className="text-xl font-semibold mb-6 text-[#2A4D69]">
-      Transformation d’un modèle de vente en libre-service
+      Transformation d'un modèle de vente en libre-service
     </h2>
 
     <div className="space-y-3 text-gray-600">
