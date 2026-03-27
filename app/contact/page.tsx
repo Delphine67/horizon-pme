@@ -34,7 +34,7 @@ export default function Contact() {
               <input placeholder="Nom et prénom *" className="border p-3 rounded-lg" />
               <input placeholder="Entreprise *" className="border p-3 rounded-lg" />
 
-              <input placeholder="Secteur d’activité" className="border p-3 rounded-lg" />
+              <input placeholder="Secteur d'activité" className="border p-3 rounded-lg" />
               <input placeholder="Téléphone" className="border p-3 rounded-lg" />
 
             </div>
@@ -58,7 +58,7 @@ export default function Contact() {
             {/* ZONE */}
             <div className="bg-[#F4F4F4] p-6 rounded-xl text-sm">
 
-              <p className="font-semibold mb-3">Zone d’intervention</p>
+              <p className="font-semibold mb-3">Zone d'intervention</p>
 
               <ul className="space-y-2 text-gray-600">
                 <li>Île-de-France</li>
@@ -78,7 +78,7 @@ export default function Contact() {
 
               <ul className="text-sm text-gray-600 mb-4 space-y-1">
                 <li>✔ Analyse rapide de votre situation</li>
-                <li>✔ 2-3 pistes d’amélioration</li>
+                <li>✔ 2-3 pistes d'amélioration</li>
                 <li>✔ Orientation claire</li>
               </ul>
 

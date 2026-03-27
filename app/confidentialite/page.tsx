@@ -14,13 +14,13 @@ export default function Confidentialite() {
       <br />
 
       <p>
-        Aucune donnée n’est vendue, cédée ou utilisée à des fins commerciales sans consentement.
+        Aucune donnée n'est vendue, cédée ou utilisée à des fins commerciales sans consentement.
       </p>
 
       <br />
 
       <p>
-        Conformément au RGPD, vous pouvez demander l’accès, la modification ou la suppression
+        Conformément au RGPD, vous pouvez demander l'accès, la modification ou la suppression
         de vos données en envoyant un email à :
         <br />
         <strong>delphine@horizonpmesolutions.fr</strong>

@@ -111,7 +111,7 @@ export default function Expertises() {
 
           <div>
             <p className="text-gray-600">
-              La RSE n’est pas uniquement une obligation.
+              La RSE n'est pas uniquement une obligation.
               <br /><br />
               Elle peut devenir un véritable levier de différenciation
               et de performance pour votre entreprise.
@@ -126,17 +126,17 @@ export default function Expertises() {
         <div className="max-w-4xl mx-auto px-6">
 
           <h2 className="text-2xl mb-6">
-            Ces expertises s’intègrent dans un accompagnement global
+            Ces expertises s'intègrent dans un accompagnement global
           </h2>
 
           <p className="mb-8">
-            Chaque situation est différente : l’enjeu est d’adapter l’intervention
+            Chaque situation est différente : l'enjeu est d'adapter l'intervention
             à votre besoin réel.
           </p>
 
           <Link href="/accompagnement">
             <button className="bg-[#FFD166] px-6 py-3 rounded-xl text-black hover:scale-105 transition">
-              Découvrir l’accompagnement
+              Découvrir l'accompagnement
             </button>
           </Link>
 

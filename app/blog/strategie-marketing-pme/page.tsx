@@ -41,7 +41,7 @@ export default function Article() {
         </p>
 
         <p>
-          Enfin, une approche structurée permet d’adapter le marketing aux réalités de l’entreprise...
+          Enfin, une approche structurée permet d'adapter le marketing aux réalités de l'entreprise...
         </p>
 
       </div>

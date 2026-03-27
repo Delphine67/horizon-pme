@@ -23,24 +23,24 @@ export default function Article() {
         </p>
 
         <p>
-          Dans la majorité des cas, le problème ne vient pas d’un manque d’actions,
-          mais d’un manque de structuration. Les actions sont menées de manière isolée,
+          Dans la majorité des cas, le problème ne vient pas d'un manque d'actions,
+          mais d'un manque de structuration. Les actions sont menées de manière isolée,
           sans vision globale ni cohérence.
         </p>
 
         <p>
-          Cette dispersion entraîne une perte d’efficacité. Les dirigeants investissent
+          Cette dispersion entraîne une perte d'efficacité. Les dirigeants investissent
           du temps et des ressources sans toujours savoir ce qui fonctionne réellement.
         </p>
 
         <p>
-          Retrouver de la visibilité nécessite d’abord de clarifier son positionnement,
-          ses cibles et ses priorités. Il ne s’agit pas d’en faire plus, mais de faire mieux.
+          Retrouver de la visibilité nécessite d'abord de clarifier son positionnement,
+          ses cibles et ses priorités. Il ne s'agit pas d'en faire plus, mais de faire mieux.
         </p>
 
         <p>
           Une approche structurée permet de concentrer les efforts sur les actions
-          à plus forte valeur ajoutée et d’obtenir des résultats mesurables.
+          à plus forte valeur ajoutée et d'obtenir des résultats mesurables.
         </p>
 
       </div>

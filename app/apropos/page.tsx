@@ -110,7 +110,7 @@ export default function APropos() {
           <p className="text-gray-600">
             Je ne suis ni une agence, ni une consultante théorique.
             <br /><br />
-            J’interviens comme un appui externe structurant,
+            J'interviens comme un appui externe structurant,
             avec une vision globale et une capacité à adapter les solutions
             à votre contexte réel.
           </p>

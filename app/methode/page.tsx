@@ -13,8 +13,8 @@ export default function Methode() {
           </h1>
 
           <p className="text-lg text-gray-600">
-            Vous n’avez pas besoin d’une solution complexe,
-            mais d’une approche claire pour avancer étape par étape.
+            Vous n'avez pas besoin d'une solution complexe,
+            mais d'une approche claire pour avancer étape par étape.
           </p>
 
         </div>
@@ -64,7 +64,7 @@ export default function Methode() {
             {/* ETAPE 3 */}
             <div className="bg-[#7CB342] text-white p-6 rounded-xl hover:scale-105 transition">
               <p className="font-bold mb-2">03</p>
-              <h3 className="font-semibold mb-2">Plan d’actions</h3>
+              <h3 className="font-semibold mb-2">Plan d'actions</h3>
               <p className="text-sm">
                 Construire un plan clair, structuré et réaliste.
               </p>
@@ -75,7 +75,7 @@ export default function Methode() {
               <p className="font-bold mb-2">04</p>
               <h3 className="font-semibold mb-2">Mise en œuvre</h3>
               <p className="text-sm">
-                Vous accompagner dans l’action et l’ajustement.
+                Vous accompagner dans l'action et l'ajustement.
               </p>
             </div>
 

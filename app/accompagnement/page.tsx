@@ -13,7 +13,7 @@ export default function Accompagnement() {
           </h1>
 
           <p className="text-lg text-gray-600 mb-8">
-            Vous avez besoin d’avancer, mais sans recruter, sans perdre du temps
+            Vous avez besoin d'avancer, mais sans recruter, sans perdre du temps
             et sans multiplier les essais ?
             <br /><br />
             Je vous accompagne pour structurer, prioriser et piloter vos actions
@@ -34,14 +34,14 @@ export default function Accompagnement() {
         <div className="max-w-6xl mx-auto px-6">
 
           <h2 className="text-2xl mb-12 text-center">
-            Vous avez besoin d’avancer, mais…
+            Vous avez besoin d'avancer, mais…
           </h2>
 
           <div className="grid md:grid-cols-2 gap-6">
 
             {[
               "Vous manquez de temps pour structurer",
-              "Vous n’avez pas toutes les compétences en interne",
+              "Vous n'avez pas toutes les compétences en interne",
               "Vous hésitez à recruter",
               "Vous ne savez pas par où commencer",
             ].map((item, i) => (
@@ -99,7 +99,7 @@ export default function Accompagnement() {
             <div className="bg-white p-6 rounded-xl shadow hover:shadow-lg transition border-t-4 border-[#7CB342]">
               <h3 className="font-semibold mb-2">Temps partagé</h3>
               <p className="text-sm">
-                Bénéficier d’une expertise régulière sans recruter.
+                Bénéficier d'une expertise régulière sans recruter.
               </p>
             </div>
 
@@ -120,7 +120,7 @@ export default function Accompagnement() {
 
             <div className="bg-[#F4F4F4] p-6 rounded-xl">Diagnostic</div>
             <div className="bg-[#FFD166] p-6 rounded-xl">Priorisation</div>
-            <div className="bg-[#2A4D69] text-white p-6 rounded-xl">Plan d’action</div>
+            <div className="bg-[#2A4D69] text-white p-6 rounded-xl">Plan d'action</div>
             <div className="bg-black text-white p-6 rounded-xl">Mise en œuvre</div>
 
           </div>

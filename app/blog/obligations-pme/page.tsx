@@ -24,7 +24,7 @@ export default function Article() {
         <p>
           Pourtant, elles peuvent également devenir un levier de structuration.
           En les abordant de manière organisée, elles permettent de mieux maîtriser
-          les risques et d’améliorer les pratiques internes.
+          les risques et d'améliorer les pratiques internes.
         </p>
 
         <p>
@@ -39,8 +39,8 @@ export default function Article() {
         </p>
 
         <p>
-          L’enjeu n’est pas de faire plus, mais de faire mieux, avec des outils adaptés
-          à la réalité de l’entreprise.
+          L'enjeu n'est pas de faire plus, mais de faire mieux, avec des outils adaptés
+          à la réalité de l'entreprise.
         </p>
 
       </div>

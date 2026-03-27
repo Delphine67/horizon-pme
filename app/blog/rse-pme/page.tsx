@@ -26,16 +26,16 @@ export default function Article() {
         </p>
 
         <p>
-          Structurer une démarche RSE permet d’améliorer l’image de l’entreprise,
+          Structurer une démarche RSE permet d'améliorer l'image de l'entreprise,
           de fidéliser les clients et de mobiliser les équipes.
         </p>
 
         <p>
-          Il ne s’agit pas de tout transformer, mais de partir de l’existant.
+          Il ne s'agit pas de tout transformer, mais de partir de l'existant.
         </p>
 
         <p>
-          Une approche pragmatique permet d’intégrer la RSE sans complexité.
+          Une approche pragmatique permet d'intégrer la RSE sans complexité.
         </p>
 
       </div>

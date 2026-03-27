@@ -186,10 +186,10 @@ export default function CasConcrets() {
           </h2>
 
           <p className="text-gray-600">
-            Mon accompagnement s’appuie sur le terrain, la maîtrise des enjeux
+            Mon accompagnement s'appuie sur le terrain, la maîtrise des enjeux
             réglementaires et une approche pragmatique.
             <br /><br />
-            L’objectif : transformer les contraintes en leviers de performance.
+            L'objectif : transformer les contraintes en leviers de performance.
           </p>
 
         </div>

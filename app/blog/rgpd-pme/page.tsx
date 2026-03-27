@@ -33,7 +33,7 @@ export default function Article() {
         </p>
 
         <p>
-          Une démarche progressive permet de se mettre en conformité sans complexifier l’organisation.
+          Une démarche progressive permet de se mettre en conformité sans complexifier l'organisation.
         </p>
 
       </div>

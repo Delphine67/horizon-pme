@@ -27,17 +27,17 @@ export default function Article() {
         </p>
 
         <p>
-          Identifier les risques permet d’anticiper les situations critiques et
+          Identifier les risques permet d'anticiper les situations critiques et
           de prendre des décisions plus éclairées.
         </p>
 
         <p>
           Une démarche structurée permet également de mieux impliquer les équipes
-          et de renforcer la culture d’entreprise.
+          et de renforcer la culture d'entreprise.
         </p>
 
         <p>
-          Pour une PME, il ne s’agit pas de complexifier, mais de mettre en place
+          Pour une PME, il ne s'agit pas de complexifier, mais de mettre en place
           des outils simples et adaptés.
         </p>
 

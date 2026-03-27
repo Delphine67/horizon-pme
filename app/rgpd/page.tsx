@@ -15,7 +15,7 @@ export default function RGPD() {
 
       <p>
         Conformément au Règlement Général sur la Protection des Données (RGPD),
-        vous disposez d’un droit d’accès, de rectification et de suppression.
+        vous disposez d'un droit d'accès, de rectification et de suppression.
       </p>
 
       <br />

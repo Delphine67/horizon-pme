@@ -21,8 +21,8 @@ export default function Article() {
         </p>
 
         <p>
-          Pourtant, bien utilisé, il permet d’identifier les risques et
-          d’améliorer les conditions de travail.
+          Pourtant, bien utilisé, il permet d'identifier les risques et
+          d'améliorer les conditions de travail.
         </p>
 
         <p>
@@ -30,7 +30,7 @@ export default function Article() {
         </p>
 
         <p>
-          Il permet également d’impliquer les équipes dans une démarche
+          Il permet également d'impliquer les équipes dans une démarche
           de prévention.
         </p>
 

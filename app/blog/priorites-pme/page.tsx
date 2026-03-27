@@ -23,22 +23,22 @@ export default function Article() {
 
         <p>
           Cette accumulation crée une pression constante et rend les décisions plus complexes.
-          Le risque est alors de traiter les sujets au fil de l’eau, sans réelle priorisation.
+          Le risque est alors de traiter les sujets au fil de l'eau, sans réelle priorisation.
         </p>
 
         <p>
-          Pourtant, toutes les actions n’ont pas le même impact. Certaines permettent
-          de débloquer des situations, d’autres consomment du temps sans réelle valeur.
+          Pourtant, toutes les actions n'ont pas le même impact. Certaines permettent
+          de débloquer des situations, d'autres consomment du temps sans réelle valeur.
         </p>
 
         <p>
           La première étape consiste à prendre du recul pour identifier les enjeux majeurs
-          de l’entreprise : risques, opportunités, points de blocage.
+          de l'entreprise : risques, opportunités, points de blocage.
         </p>
 
         <p>
           Une fois ces éléments clarifiés, il devient possible de prioriser les actions
-          et d’avancer de manière structurée, sans dispersion.
+          et d'avancer de manière structurée, sans dispersion.
         </p>
 
       </div>
