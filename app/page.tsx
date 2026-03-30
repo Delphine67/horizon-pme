@@ -96,7 +96,7 @@ export default function Home() {
             <Link href="/expertises">
               <div className="bg-white text-[#2A4D69] p-8 rounded-xl text-center hover:shadow-xl transition cursor-pointer">
                 <img src="/picto-marketing.png" className="w-16 mx-auto mb-4" />
-                <h3 className="font-semibold mb-2">Marketing responsable</h3>
+                <h3 className="font-semibold mb-2">Marketing</h3>
                 <p>Développez votre activité avec cohérence</p>
               </div>
             </Link>
