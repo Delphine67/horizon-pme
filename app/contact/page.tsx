@@ -94,7 +94,7 @@ export default function Contact() {
             <div className="bg-[#F4F4F4] p-6 rounded-xl text-sm">
 
               <p className="italic">
-                “Approche concrète, efficace et adaptée à nos enjeux.”
+                “Approche concrète, efficace et adaptée à vos enjeux.”
               </p>
 
             </div>

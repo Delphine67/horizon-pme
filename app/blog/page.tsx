@@ -69,7 +69,7 @@ export default function Blog() {
                   Structurer sa stratégie marketing
                 </h2>
                 <p className="text-sm text-gray-600">
-                  Passer d’actions isolées à une stratégie efficace.
+                  Passer d'actions isolées à une stratégie efficace.
                 </p>
               </div>
             </Link>
@@ -107,7 +107,7 @@ export default function Blog() {
       <section className="bg-[#FFD166] py-20 text-center">
 
         <h2 className="text-2xl mb-4">
-          Besoin d’y voir plus clair ?
+          Besoin d'y voir plus clair ?
         </h2>
 
         <p className="mb-6">
