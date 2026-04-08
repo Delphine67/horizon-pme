@@ -5,50 +5,59 @@ export default function Home() {
     <main>
 
       {/* HERO */}
-      <section className="bg-[#F4F4F4] py-24">
-        <div className="max-w-6xl mx-auto px-6 grid md:grid-cols-2 gap-12 items-center">
+      <section className="py-20">
+  <div className="max-w-6xl mx-auto px-6 grid md:grid-cols-2 gap-12 items-center">
+    
+    {/* TEXTE */}
+    <div>
+      <h1 className="text-4xl md:text-5xl font-bold leading-tight mb-6">
+        Structurez et développez votre PME
+        <span className="block text-[#2A4D69] mt-2">
+          sans dispersion ni perte de temps
+        </span>
+      </h1>
 
-          <div>
+      <p className="text-lg text-gray-600 mb-6">
+        Vous dirigez une PME et devez avancer vite, prendre des décisions,
+        répondre aux obligations et développer votre activité ?
+      </p>
 
-            <h1 className="text-4xl font-bold mb-6 leading-tight">
-              Structurez et développez votre PME <br />
-              <span className="text-[#2A4D69]">
-                sans dispersion ni perte de temps
-              </span>
-            </h1>
+      <p className="text-lg text-gray-600 mb-8">
+        Je vous aide à structurer vos actions, sécuriser vos pratiques
+        et obtenir des résultats concrets.
+      </p>
 
-            <p className="text-lg mb-8 text-gray-600">
-              Vous dirigez une PME et devez avancer vite, prendre des décisions,
-              répondre aux obligations et développer votre activité ?
-              <br /><br />
-              Je vous aide à structurer vos actions, sécuriser vos pratiques
-              et obtenir des résultats concrets.
-            </p>
+      <div className="flex gap-4">
+        <a href="/contact">
+          <button className="bg-[#FDE166] px-6 py-3 rounded-xl font-semibold hover:scale-105 transition">
+            Être accompagné
+          </button>
+        </a>
 
-            <div className="flex gap-4">
+        <a href="/cas-concrets">
+          <button className="border border-[#2A4D69] px-6 py-3 rounded-xl hover:bg-[#2A4D69] hover:text-white transition">
+            Voir des cas concrets
+          </button>
+        </a>
+      </div>
+    </div>
 
-              <Link href="/contact">
-                <button className="bg-[#FFD166] px-6 py-3 rounded-xl font-semibold hover:scale-105 transition">
-                  Être accompagné
-                </button>
-              </Link>
+    {/* IMAGE PREMIUM */}
+    <div className="relative flex justify-center items-center">
+      
+      {/* Fond discret (signature visuelle) */}
+      <div className="absolute w-full h-full bg-[#2A4D69]/10 rounded-2xl translate-x-4 translate-y-4"></div>
 
-              <Link href="/cas-concrets">
-                <button className="border border-[#2A4D69] px-6 py-3 rounded-xl hover:bg-[#2A4D69] hover:text-white transition">
-                  Voir des cas concrets
-                </button>
-              </Link>
+      {/* Image */}
+      <img 
+        src="/photosite.png" 
+        className="relative w-full max-w-md rounded-2xl"
+      />
+      
+    </div>
 
-            </div>
-
-          </div>
-
-          <div className="flex justify-center">
-            <img src="/photosite.png" className="w-full h-auto" />
-          </div>
-
-        </div>
-      </section>
+  </div>
+</section>
 
       {/* PROBLEME */}
       <section className="py-20">
