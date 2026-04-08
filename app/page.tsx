@@ -44,7 +44,7 @@ export default function Home() {
           </div>
 
           <div className="flex justify-center">
-            <img src="/photosite.png" className="w-full max-w-4xl h-auto rounded-2xl shadow-lg" />
+            <img src="/photosite.png" className="w-full h-auto" />
           </div>
 
         </div>
