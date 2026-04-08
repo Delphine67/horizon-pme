@@ -27,7 +27,7 @@ export default function Home() {
         et obtenir des résultats concrets.
       </p>
 
-      <div className="flex gap-4">
+      <div className="flex flex-col sm:flex-row gap-4">
         <a href="/contact">
           <button className="bg-[#FDE166] px-6 py-3 rounded-xl font-semibold hover:scale-105 transition">
             Être accompagné
@@ -42,22 +42,20 @@ export default function Home() {
       </div>
     </div>
 
-    {/* IMAGE PREMIUM */}
+    {/* IMAGE */}
     <div className="relative flex justify-center items-center">
-      
-      {/* Fond discret (signature visuelle) */}
-      <div className="absolute w-full h-full bg-[#2A4D69]/10 rounded-2xl translate-x-4 translate-y-4"></div>
+      <div className="absolute inset-0 bg-[#2A4D69]/10 rounded-2xl translate-x-4 translate-y-4"></div>
 
-      {/* Image */}
-      <img 
-        src="/photosite.png" 
-        className="relative w-full max-w-md rounded-2xl"
+      <img
+        src="/photosite.png"
+        alt="Accompagnement structuré pour dirigeants de PME"
+        className="relative w-full max-w-md h-auto rounded-2xl"
       />
-      
     </div>
 
   </div>
 </section>
+
 
 
       {/* PROBLEME */}
