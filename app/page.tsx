@@ -5,10 +5,9 @@ export default function Home() {
     <main>
 
       {/* HERO */}
-<section className="py-24">
+<section className="bg-white py-24">
   <div className="max-w-7xl mx-auto px-6 grid md:grid-cols-2 gap-16 items-center">
     
-    {/* TEXTE */}
     <div>
       <h1 className="text-4xl md:text-6xl font-bold leading-tight tracking-tight mb-8">
         Structurez et développez votre PME
@@ -42,7 +41,6 @@ export default function Home() {
       </div>
     </div>
 
-    {/* IMAGE */}
     <div className="relative flex justify-center md:justify-end">
       <div className="absolute inset-0 rounded-[28px] bg-[#2A4D69]/6 translate-x-5 translate-y-5"></div>
 
@@ -52,44 +50,58 @@ export default function Home() {
         className="relative w-full max-w-2xl h-auto rounded-[28px] object-cover"
       />
     </div>
-
   </div>
 </section>
 
 
 
       {/* PROBLEME */}
-      <section className="py-20">
-        <div className="max-w-6xl mx-auto px-6 grid md:grid-cols-2 gap-12">
+      <<section className="bg-[#F7F7F5] py-20">
+  <div className="max-w-6xl mx-auto px-6">
+    
+    <div className="text-center mb-12">
+      <h2 className="text-3xl md:text-4xl font-bold text-[#2A2A2A] mb-4">
+        Vous avancez, mais avec trop de friction
+      </h2>
+      <p className="text-lg text-gray-600 max-w-3xl mx-auto">
+        Quand les priorités ne sont pas claires, l’activité avance moins vite,
+        les décisions se compliquent et les obligations prennent trop de place.
+      </p>
+    </div>
 
-          <div>
-            <h2 className="text-xl font-semibold mb-6">
-              Vous êtes dans cette situation ?
-            </h2>
+    <div className="grid md:grid-cols-2 gap-8">
+      
+      <div className="bg-white rounded-2xl p-8 shadow-sm">
+        <h3 className="text-xl font-semibold mb-6">Ce que vous vivez aujourd’hui</h3>
+        <ul className="space-y-4 text-gray-700">
+          <li>✓ Vous avancez sans vision claire</li>
+          <li>✓ Vous subissez les obligations</li>
+          <li>✓ Vous manquez de temps</li>
+          <li>✓ Vous prenez des décisions sans visibilité</li>
+        </ul>
+      </div>
 
-            <ul className="space-y-3">
-              <li>✔ Vous avancez sans vision claire</li>
-              <li>✔ Vous subissez les obligations</li>
-              <li>✔ Vous manquez de temps</li>
-              <li>✔ Vous prenez des décisions sans visibilité</li>
-            </ul>
+      <div className="bg-[#FDE166] rounded-2xl p-8">
+        <h3 className="text-xl font-semibold mb-6">Ce que cela produit</h3>
+        <p className="text-gray-800 leading-relaxed">
+          Perte de temps, dispersion des efforts, risques mal anticipés,
+          manque de lisibilité sur les priorités et difficulté à transformer
+          vos actions en résultats concrets.
+        </p>
+      </div>
 
-            <Link href="/methode">
-              <button className="mt-6 border px-5 py-2 rounded-lg hover:bg-[#2A4D69] hover:text-white transition">
-                Découvrir la méthode
-              </button>
-            </Link>
+    </div>
 
-          </div>
+    <div className="mt-10 text-center">
+      <a href="/methode">
+        <button className="border border-[#2A4D69] px-6 py-3 rounded-xl hover:bg-[#2A4D69] hover:text-white transition">
+          Découvrir la méthode
+        </button>
+      </a>
+    </div>
 
-          <div className="bg-[#FFD166] p-6 rounded-xl flex items-center">
-            <p className="font-semibold">
-              Résultat : perte de temps, risques, manque de performance
-            </p>
-          </div>
-
-        </div>
-      </section>
+  </div>
+</section>
 
       {/* SOLUTIONS */}
       <section className="bg-[#2A4D69] text-white py-20">
