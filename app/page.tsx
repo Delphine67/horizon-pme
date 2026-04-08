@@ -5,37 +5,37 @@ export default function Home() {
     <main>
 
       {/* HERO */}
-      <section className="py-20">
-  <div className="max-w-6xl mx-auto px-6 grid md:grid-cols-2 gap-12 items-center">
+<section className="py-24">
+  <div className="max-w-7xl mx-auto px-6 grid md:grid-cols-2 gap-16 items-center">
     
     {/* TEXTE */}
     <div>
-      <h1 className="text-4xl md:text-5xl font-bold leading-tight mb-6">
+      <h1 className="text-4xl md:text-6xl font-bold leading-tight tracking-tight mb-8">
         Structurez et développez votre PME
-        <span className="block text-[#2A4D69] mt-2">
+        <span className="block text-[#2A4D69] mt-3">
           sans dispersion ni perte de temps
         </span>
       </h1>
 
-      <p className="text-lg text-gray-600 mb-6">
+      <p className="text-xl text-gray-700 leading-relaxed mb-6 max-w-xl">
         Vous dirigez une PME et devez avancer vite, prendre des décisions,
         répondre aux obligations et développer votre activité ?
       </p>
 
-      <p className="text-lg text-gray-600 mb-8">
+      <p className="text-xl text-gray-700 leading-relaxed mb-10 max-w-xl">
         Je vous aide à structurer vos actions, sécuriser vos pratiques
         et obtenir des résultats concrets.
       </p>
 
       <div className="flex flex-col sm:flex-row gap-4">
         <a href="/contact">
-          <button className="bg-[#FDE166] px-6 py-3 rounded-xl font-semibold hover:scale-105 transition">
+          <button className="bg-[#FDE166] px-8 py-4 rounded-xl font-semibold hover:scale-105 transition">
             Être accompagné
           </button>
         </a>
 
         <a href="/cas-concrets">
-          <button className="border border-[#2A4D69] px-6 py-3 rounded-xl hover:bg-[#2A4D69] hover:text-white transition">
+          <button className="border border-[#2A4D69] px-8 py-4 rounded-xl hover:bg-[#2A4D69] hover:text-white transition">
             Voir des cas concrets
           </button>
         </a>
@@ -43,13 +43,13 @@ export default function Home() {
     </div>
 
     {/* IMAGE */}
-    <div className="relative flex justify-center items-center">
-      <div className="absolute inset-0 bg-[#2A4D69]/10 rounded-2xl translate-x-4 translate-y-4"></div>
+    <div className="relative flex justify-center md:justify-end">
+      <div className="absolute inset-0 rounded-[28px] bg-[#2A4D69]/6 translate-x-5 translate-y-5"></div>
 
       <img
         src="/photosite.png"
         alt="Accompagnement structuré pour dirigeants de PME"
-        className="relative w-full max-w-md h-auto rounded-2xl"
+        className="relative w-full max-w-2xl h-auto rounded-[28px] object-cover"
       />
     </div>
 
