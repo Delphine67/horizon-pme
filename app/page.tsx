@@ -59,6 +59,7 @@ export default function Home() {
   </div>
 </section>
 
+
       {/* PROBLEME */}
       <section className="py-20">
         <div className="max-w-6xl mx-auto px-6 grid md:grid-cols-2 gap-12">
